@@ -1,0 +1,5 @@
+C:\Users\acerv\source\repos\Mathervans\x64\Release\Mathervans.vcxproj.AssemblyReference.cache
+C:\Users\acerv\source\repos\Mathervans\x64\Release\Mathervans.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\acerv\source\repos\Mathervans\x64\Release\Mathervans.MyForm.resources
+C:\Users\acerv\source\repos\Mathervans\x64\Release\Mathervans.vcxproj.GenerateResource.cache
+C:\Users\acerv\source\repos\Mathervans\x64\Release\Mathervans.exe

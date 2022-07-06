@@ -130,7 +130,7 @@ namespace Mathervans {
 			this->label3->AutoSize = true;
 			this->label3->Font = (gcnew System::Drawing::Font(L"Comic Sans MS", 15.75F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->label3->Location = System::Drawing::Point(358, 21);
+			this->label3->Location = System::Drawing::Point(356, 21);
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(85, 29);
 			this->label3->TabIndex = 6;
@@ -198,7 +198,7 @@ namespace Mathervans {
 			// 
 			this->textBox2->Font = (gcnew System::Drawing::Font(L"Comic Sans MS", 15.75F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(0)));
-			this->textBox2->Location = System::Drawing::Point(337, 66);
+			this->textBox2->Location = System::Drawing::Point(335, 66);
 			this->textBox2->Multiline = true;
 			this->textBox2->Name = L"textBox2";
 			this->textBox2->Size = System::Drawing::Size(127, 70);
