@@ -1,2 +1,5 @@
 ﻿  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MyForm.obj : warning LNK4204: 'C:\Users\acerv\source\repos\Mathervans\x64\Release\vc143.pdb' is missing debugging information for referencing module; linking object as if no debug info
+MyForm.obj : warning LNK4204: 'C:\Users\acerv\source\repos\Mathervans\x64\Release\vc143.pdb' is missing debugging information for referencing module; linking object as if no debug info
+.NETFramework,Version=v4.7.2.AssemblyAttributes.obj : warning LNK4204: 'C:\Users\acerv\source\repos\Mathervans\x64\Release\vc143.pdb' is missing debugging information for referencing module; linking object as if no debug info
   Mathervans.vcxproj -> C:\Users\acerv\source\repos\Mathervans\x64\Release\Mathervans.exe
