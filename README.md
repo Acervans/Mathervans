@@ -1,3 +1,3 @@
 # Mathervans
 
-Small project to learn the .NET Framework, using C++
+Calculator with basic functionalities. Small project to learn the .NET Framework, using C++
