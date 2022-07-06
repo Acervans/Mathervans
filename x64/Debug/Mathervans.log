@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\acerv\source\repos\Mathervans\MyForm.h(322,35): warning C4101: 'e': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Mathervans.vcxproj -> C:\Users\acerv\source\repos\Mathervans\x64\Debug\Mathervans.exe
